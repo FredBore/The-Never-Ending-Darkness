@@ -5,4 +5,3 @@ This game may eventually be on game jolt for mac and win download.
 Credit Resources:
 
 Unity Standard Assets,
-MCS Male Lite Character
