@@ -5,3 +5,5 @@ This game may eventually be on game jolt for mac and win download.
 Credit Resources:
 
 Unity Standard Assets,
+3dhaupt's 45 ACP Smith and Wesson gun model,
+This tutorial from Xenosmash Games: https://www.youtube.com/watch?v=pT4uca2bSgc,
